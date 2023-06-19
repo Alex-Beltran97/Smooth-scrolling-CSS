@@ -4,7 +4,7 @@ In this project, i've had implemented a tool for get a modern way to browse thro
 ## How can I see this project?
 
 Go to the next link for open the project:
-https://app.netlify.com/sites/smooth-scrolling-css
+https://smooth-scrolling-css.netlify.app
 
 If you have any doubts, question or comments, those are welcome!
 
